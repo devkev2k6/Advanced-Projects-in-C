@@ -40,15 +40,6 @@ Perfect showcase project for:
 - Time handling (`<time.h>`)
 - String manipulation & input sanitization
 
-## 📸 Screenshots
-
-*(Add 3–5 clean console screenshots here showing:*
-- main menu
-- account creation
-- transaction history table
-- transfer operation
-- list all accounts view
-*)*
 
 ## 🚀 Getting Started
 
