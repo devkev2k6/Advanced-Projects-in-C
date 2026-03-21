@@ -2,8 +2,8 @@
 
 A feature-rich, secure, and portfolio-ready **console-based Bank Management System** written in **pure C** — demonstrating clean code architecture, binary file persistence, input validation, transaction history, and basic security practices.
 
-Perfect showcase project for:
-- C programming skills
+
+- C programming
 - File I/O handling (binary files)
 - Structured programming
 - Input sanitization & error handling
@@ -38,11 +38,7 @@ Perfect showcase project for:
 - Standard Library only (no external dependencies)
 - Binary file I/O (`fread`, `fwrite`, `fseek`)
 - Time handling (`<time.h>`)
-- String manipulation & input sanitization
-
-
-## 🚀 Getting Started
-
+- String manipulation & input sanitizatiion.
 ### Prerequisites
 
 - GCC or any standard C compiler
